@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>User Registration - Tomcat Demo</title>
+    <title>User Registration - Tomcat </title>
 
     <style>
         body {
