@@ -101,7 +101,7 @@
 
     <div class="container">
 
-        <h1>User Registration</h1>
+        <h1>New User Registration Form</h1>
 
         <form action="#" method="post">
 
